@@ -1,0 +1,17 @@
+
+
+.section ul{
+  display: flex;
+  gap: 3rem;
+}
+
+.section li{
+  color: green;
+  font-size: 2rem;
+  font-weight: bold;
+  list-style-type: none;
+}
+
+.section a{
+  color: inherit;
+}
